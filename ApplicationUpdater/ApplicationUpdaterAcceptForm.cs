@@ -30,7 +30,7 @@ namespace ApplicationUpdate
 
         private void btnYes_Click(object sender, EventArgs e)
         {
-            this.DialogResult = DialogResult.No;
+            this.DialogResult = DialogResult.Yes;
             this.Close();
         }
 
