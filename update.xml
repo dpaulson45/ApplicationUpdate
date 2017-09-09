@@ -2,8 +2,8 @@
 <sharpUpdate>
 	<update appId="Test Application">
 		<version>1.0.0.1</version>
-		<url>http://computername/tools/Setup-Prod.msi</url>
-		<fileName>setup.msi</fileName>
+		<url>https://github.com/dpaulson45/TestRepos/releases/download/v1.0.1/Setup.msi</url>
+		<fileName>Setup.msi</fileName>
 		<md5>GUID</md5>
 		<description>Prod Release</description>
 		<launchArgs></launchArgs>
