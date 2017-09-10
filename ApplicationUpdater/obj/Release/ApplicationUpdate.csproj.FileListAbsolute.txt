@@ -1,0 +1,10 @@
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\bin\Release\ApplicationUpdater.dll
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\bin\Release\ApplicationUpdater.pdb
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdate.ApplicationUpdaterAcceptForm.resources
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdate.ApplicationUpdaterDetailsForm.resources
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdate.ApplicationUpdaterDownloadForm.resources
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdater.Properties.Resources.resources
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdate.csproj.GenerateResource.Cache
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdate.csproj.CoreCompileInputs.cache
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdater.dll
+C:\Users\dpaul\Documents\GitHub\ApplicationUpdate\ApplicationUpdater\obj\Release\ApplicationUpdater.pdb
