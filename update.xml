@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<sharpUpdate>
+<applicationUpdate>
 	<update appId="Application Name">
 		<version>1.0.0.0</version>
 		<url>Url_download_location</url>
@@ -8,4 +8,4 @@
 		<description>Prod Release</description>
 		<launchArgs></launchArgs>
 	</update>
-</sharpUpdate>
+</applicationUpdate>
