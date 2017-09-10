@@ -1,0 +1,10 @@
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\bin\x64\Debug\ApplicationUpdater.dll
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\bin\x64\Debug\ApplicationUpdater.pdb
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdate.ApplicationUpdaterAcceptForm.resources
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdate.ApplicationUpdaterDetailsForm.resources
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdate.ApplicationUpdaterDownloadForm.resources
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdater.Properties.Resources.resources
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdate.csproj.GenerateResource.Cache
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdate.csproj.CoreCompileInputs.cache
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdater.dll
+C:\Users\dpaul\OneDrive\Programs\CSharp\ApplicationUpdater\ApplicationUpdater\ApplicationUpdater\obj\x64\Debug\ApplicationUpdater.pdb
